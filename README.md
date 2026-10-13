@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 * 🏆 $\mathrm{OIer\ and\ ACM-ICPC}$ 🥇 $\mathrm{ICPC\ China\ Northwest\ Provincial}$ $\mathrm{Rank2(Runner-up)}$
 * 🎈 $\mathrm{The\ 2023\ ICPC\ Asia\ Shenyang\ Regional\ Contest\ 🥈Sliver\ Medal\ and\ Jinan\ Regional\ Contest\ 🥉Bronze\ Medal}$
-* 🎓 $\mathrm{Bachelor\ of\ Network\ Engineering\,graduated\ from}$ [🏫SWPU](https://www.swpu.edu.cn/) $\mathcal{(2022-2026)}$
+* 🎓 $\mathrm{Bachelor\ of\ Network\ Engineering\,graduated\ from}$ [🏫UESTC](https://www.uestc.edu.cn/) $\mathcal{(2022-2026)}$
 * 🌟 $\mathrm{Contributor\ of\ our\ }$[OI Wiki](https://github.com/OI-wiki)
 * ❤️ $\mathrm{Love\ Linux\ and\ open\ source\ software}$
 * 📫 $\mathrm{How\ to\ reach\ me:\ }$ $\text{Teaxion@foxmail/outlook.com}$
