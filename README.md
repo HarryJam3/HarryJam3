@@ -9,7 +9,7 @@
 * ❤️ $\mathrm{Love\ Linux\ and\ open\ source\ software}$
 * 📫 $\mathrm{How\ to\ reach\ me:\ }$ $\text{Teaxion@foxmail/outlook.com}$
 
-## 💼 实习经历 · Experience
+### 💼 Experience
 
 | 时间 | 机构 | 职位 | 方向 |
 | :--- | :--- | :--- | :--- |
@@ -17,3 +17,4 @@
 | `2025.07 – 2025.10` | **微软亚洲研究院**<br><sub>Microsoft Research Asia · MSRA</sub> | 研究实习生<br><sub>Research Intern</sub> | 算法与系统研究 |
 | `2026.03 – 2026.09` | **中国移动梧桐大数据中心**<br><sub>China Mobile Wutong Big Data Center</sub> | 大数据算法实习生<br><sub>Big Data & Algorithm Intern</sub> | 大数据平台 · 数据处理与算法落地 |
 
+![Skills](https://skillicons.dev/icons?i=c,cpp,py,html,github,js,css,php,md,linux,vim,vscode,cloudflare,docker,git)
